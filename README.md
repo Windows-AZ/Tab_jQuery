@@ -1,1 +1,1 @@
-# Tab_jQuery
+Sizlərə Tab_jQuery görünüşünü təqdim edirəm
